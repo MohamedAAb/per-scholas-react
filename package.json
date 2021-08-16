@@ -1,0 +1,24 @@
+{
+    "name": "per-scholas-alumni-react-course-2021",
+    "version": "1.0.0",
+    "description": "This contains coursework and other info for the course. It will also be used as a reference and study guide.",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/MohamedAAb/per-scholas-react.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/MohamedAAb/per-scholas-react/issues"
+    },
+    "homepage": "https://github.com/MohamedAAb/per-scholas-react#readme",
+    "devDependencies": {
+      "concurrently": "^6.2.1",
+      "nodemon": "^2.0.12",
+      "typescript": "^4.3.5"
+    }
+  }
